@@ -2,10 +2,6 @@
 
 JavaScript library for frmat number .
 
-## Show Cases
-
-![demo.gif](demo.gif)
-
 ## Getting Started
 
 

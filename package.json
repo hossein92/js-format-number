@@ -1,6 +1,6 @@
 {
   "name": "rn-format-number",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Set precision, delimiter, separator and unit so you can actually have any number format you want",
   "main": "formatNumber.js",
   "scripts": {
