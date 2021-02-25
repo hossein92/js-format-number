@@ -1,0 +1,15 @@
+{
+  "name": "rn-format-number",
+  "version": "1.0.1",
+  "description": "Set precision, delimiter, separator and unit so you can actually have any number format you want",
+  "main": "formatNumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "seprator",
+    "currency"
+  ],
+  "author": "hossein yousefi",
+  "license": "ISC"
+}
